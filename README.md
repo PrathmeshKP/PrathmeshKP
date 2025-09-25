@@ -29,7 +29,7 @@
 *Other Skills:* JWT Auth, REST APIs, Java, cloud
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,tailwindcss,bootstrap,spring,mongodb,mysql,java,git,postman" />
+  <img src="https://skillicons.dev/icons?i=react,tailwindcss,bootstrap,spring,mongodb,mysql,java,c++,git,postman" />
 
 </p>
 
