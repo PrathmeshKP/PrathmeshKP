@@ -30,8 +30,6 @@
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=react,tailwindcss,bootstrap,spring,mongodb,mysql,java,cpp,git,postman" />
-
-
 </p>
 
 ---
@@ -57,4 +55,4 @@ A production-grade pharmacy website built on level to procdessing of real time p
 📧 Email: prathmesh30303@gmail.com
 
 ---
- “Code is like humor — when you have to explain it, it’s bad.”
+ “Simplicity is the soul of efficiency”
