@@ -35,12 +35,6 @@
 ---
 
 
-### [Pharmacy Management System] 
-A production-grade pharmacy website built on level to procdessing of real time pharmacy management and efficient transactions, order management, and information display.  
-
-**Tech Stack:** React, Spring Boot, MySQL, Eureka Server
-
-
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PrathmeshKP&show_icons=true&theme=react" height="150" />
